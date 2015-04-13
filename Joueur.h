@@ -1,6 +1,8 @@
 #ifndef JOUEUR
 #define JOUEUR
 
+#include "TextNew.h"
+
 class Joueur
 {
 public:
